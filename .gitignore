@@ -3,8 +3,6 @@ node_modules/
 npm-debug.log
 package-lock.json
 
-# Build artifacts
-/build
 
 # IDE-specific files
 .vscode/
